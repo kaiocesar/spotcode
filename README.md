@@ -1,24 +1,4 @@
-# README
+# SPOTCODE
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+É UM PROJECTO BASEADO NA INTERFACE DO SPOTIFY, PORÉM COM SEU BACKEND EM RUBY ON RAILS E O FRONTEND EM REACT.JS
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
