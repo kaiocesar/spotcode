@@ -233,4 +233,4 @@ michael_jackson.favorites.create(favoritable: paw_paw_tree)
  
 celine_dion = User.create(name: "Celine Dion", email: "celine@dion.com", password: "123456", password_confirmation: "123456")
 celine_dion.favorites.create(favoritable: trinity)
-celine_dion.favorites.create(favoritable: everything_zen)
+celine_dion.favorites.create(favoritable: everything_zen)AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
